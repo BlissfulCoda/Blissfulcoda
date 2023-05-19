@@ -1,7 +1,7 @@
 Hi There![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ronnie 👨🏾‍💻
 ==============================================================================================================================
 
-Software Engineer, UI Designer & Teacher
+Software Engineer, Designer & Teacher
 ----------------------------------------
 
 I'm a Full-Stack Software Engineer and Computer Science Teacher who is passionate about providing creative solutions that solve specific client problems through clean, visually appealing user interfaces and software development. I enjoying learning new technologies, combining UI/UX with web development to create exceptional digital experiences and tutoring . Recent technologies i've worked with include Figma, Python, Typescript, React, NextJs, Express, Redis, MongoDB and DevOps. 
@@ -36,7 +36,6 @@ I'm a Full-Stack Software Engineer and Computer Science Teacher who is passionat
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="24" height="24" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="24" height="24" alt="Express" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="24" height="24" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="24" height="24" alt="Photoshop" /></a>
 </p>
 
 

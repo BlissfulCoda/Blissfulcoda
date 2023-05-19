@@ -4,7 +4,7 @@ Hi There![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Software Engineer, UI Designer & Teacher
 ----------------------------------------
 
-I'm a software engineer and Teacher who is passionate about providing creative solutions that solve specific client problems through clean, visually appealing user interfaces and software development. I enjoying learning new technologies, combining UI/UX with web development to create exceptional digital experiences and teaching. Technologies i've recently worked with include Figma, Photoshop, Typescript, React, NextJs, Express, Redis, MongoDB and Docker. 
+I'm a Full-Stack Software Engineer and Computer Science Teacher who is passionate about providing creative solutions that solve specific client problems through clean, visually appealing user interfaces and software development. I enjoying learning new technologies, combining UI/UX with web development to create exceptional digital experiences and tutoring . Recent technologies i've worked with include Figma, Python, Typescript, React, NextJs, Express, Redis, MongoDB and DevOps. 
 
 * 🌍  I'm based in London
 * 📫  You can contact me at [ronniekiyegga@hotmail.com](mailto:ronniekiyegga@hotmail.com)

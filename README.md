@@ -1,44 +1,44 @@
-Hi There![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ronnie 👨🏾‍💻
-==============================================================================================================================
+# Hi, I'm Ronnie
 
-Software Engineer & Designer 
-----------------------------------------
+London, UK &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; [ronniekiyegga.com](https://ronniekiyegga.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ronniekiyegga)
 
-I'm a Full-Stack Software Engineer who is passionate about design and creating solutions that solve specific client problems through clean, visually appealing user interfaces and software development. I enjoying learning new technologies, combining UI/UX with web development to create exceptional digital experiences and tutoring . Recent technologies i've worked with include Figma, Python, Typescript, React, NextJs, Express, Redis, MongoDB and DevOps. 
+Full-stack engineer with 4+ years shipping production platforms across B2B SaaS, e-commerce, and EdTech.  
+React · Next.js · TypeScript · Node.js · PostgreSQL · AWS · Docker
 
-* 🌍 Based in London
-* 📫 Email: [ronniekiyegga@hotmail.com](mailto:ronniekiyegga@hotmail.com)
-* 🌱 Currently learning DevOps, ML & everything Design and JavaScript
-* 🤝 Open to collaborating on open source projects involving TypeScript
-* ⚡ Fun fact: Leg day is my favourite day in the gym 😊
+---
 
-### Skills
+## Building
 
+- [**algo-pseudo**](https://github.com/BlissfulCoda/pseudolab-IDE) — Browser-based Cambridge pseudocode IDE with real-time AST semantic analysis and exam-board validation. Built with Next.js, TypeScript and PostgreSQL. Used by ~1,000 GCSE and A-Level students across live computing classes.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="24" height="24" alt="TypeScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="24" height="24" alt="Git" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="24" height="24" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="24" height="24" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="24" height="24" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="24" height="24" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="24" height="24" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="24" height="24" alt="TailwindCSS" /></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="24" height="24" alt="Chakra UI" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" height="24" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="24" height="24" alt="Redux" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="24" height="24" alt="Vite" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="24" height="24" alt="NextJs" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="24" height="24" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="24" height="24" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="24" height="24" alt="Firebase" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="24" height="24" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="24" height="24" alt="Express" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="24" height="24" alt="Figma" /></a>
-</p>
+- [**EduFeedbackPro**](https://github.com/BlissfulCoda) — B2B SaaS analytics platform for schools. 3-tier data pipeline (BigQuery → NeonDB → MongoDB) with sub-50ms P95 API response times, SSE real-time updates, ElevenLabs voice AI, and Sentry monitoring. Serving 1,200+ students.
 
+- [**Ms Maryam's Maths**](https://msmaryamsmaths.com) — Full-stack tutoring platform with JWT/RBAC auth across 3 user roles, Arcjet rate limiting, and blue-green CI/CD via GitHub Actions. Zero-downtime deployments in under 3 minutes.
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.behance.com/romiek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="21" height="21" /></a> <a href="https://www.dribbble.com/kiyegga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="20" height="20" /></a> <a href="https://www.github.com/BlissfulCoda" target="_blank" rel="noreferrer"> <a href="https://www.linkedin.com/in/ronnie-kiyegga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a></p>
+## Past work
+
+- [**github-finder**](https://github.com/BlissfulCoda/Github-Finder) — Dockerised MERN app using Docker Compose and Nginx as a forward proxy, with Redis caching for GitHub API responses.
+
+- [**SpotOnEnterprise**](https://github.com/BlissfulCoda/SpotOnEnterprise-redesign) — Full UI redesign and component rebuild for an enterprise SaaS product.
+
+---
+
+## Stack
+
+```
+Languages    TypeScript  JavaScript (ES6+)  Python  SQL
+Frontend     React  Next.js  Tailwind CSS  Figma
+Backend      Node.js  Express.js  PostgreSQL  MongoDB  Redis  Prisma
+Testing      Jest  Cypress  Playwright
+Infra        Docker  Nginx  GitHub Actions  AWS S3  DigitalOcean  Vercel
+```
+
+---
+
+## Elsewhere
+
+- 🌐 [ronniekiyegga.com](https://ronniekiyegga.com)
+- 💼 [linkedin.com/in/ronniekiyegga](https://linkedin.com/in/ronniekiyegga)
+- 📬 ronniekiyegga@hotmail.com

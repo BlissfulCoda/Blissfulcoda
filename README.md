@@ -1,14 +1,8 @@
 # Hi, I'm Ronnie
 
---
-
 **Software Engineer** &nbsp;·&nbsp; London, UK &nbsp;·&nbsp; Open to roles
 
---
-
 BSc Computer Science, King's College London. Full-stack engineer with 4+ years shipping production platforms across B2B SaaS, e-commerce, and EdTech. Passionate about combining UI/UX with engineering to build fast, well-designed products end-to-end. React · Next.js · TypeScript · Node.js · PostgreSQL · AWS · Docker.
-
---
 
 ## Building
 
@@ -18,15 +12,12 @@ BSc Computer Science, King's College London. Full-stack engineer with 4+ years s
 
 - [**Ms Maryam's Maths**](https://msmaryamsmaths.com) — Full-stack tutoring SaaS with JWT/RBAC, Arcjet rate limiting, and blue-green CI/CD via GitHub Actions. Zero-downtime deploys in under 3 minutes.
 
----
-
 ## Past work
 
 - [**github-finder**](https://github.com/BlissfulCoda/Github-Finder) — Dockerised MERN app with Nginx forward proxy and Redis caching for GitHub API responses.
 
 - [**SpotOnEnterprise**](https://github.com/BlissfulCoda/SpotOnEnterprise-redesign) — Full UI redesign and component rebuild for an enterprise SaaS product.
 
----
 
 ## Stack
 

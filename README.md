@@ -6,9 +6,9 @@ BSc Computer Science, King's College London. Full-stack engineer with 4+ years s
 
 ## Building
 
-- [**algo-pseudo**](https://github.com/BlissfulCoda/pseudolab-IDE) — Browser-based Cambridge pseudocode IDE with real-time AST semantic analysis and exam-board validation. Next.js · TypeScript · PostgreSQL. Used by ~1,000 GCSE and A-Level students.
+- [**algo-pseudo**](https://github.com/BlissfulCoda/pseudolab-IDE) — Browser-based Cambridge pseudocode IDE with real-time AST semantic analysis and exam-board validation. Next.js · TypeScript · PostgreSQL. Used by ~400+ students GCSE and A-Level.
 
-- [**EduFeedbackPro**](https://github.com/BlissfulCoda) — B2B SaaS analytics platform. 3-tier pipeline (BigQuery → NeonDB → MongoDB), sub-50ms P95 latency, SSE real-time updates, ElevenLabs voice AI. Serving 1,200+ students.
+- [**EduFeedbackPro**](https://github.com/BlissfulCoda) — B2B SaaS analytics platform. 3-tier pipeline (BigQuery → NeonDB → MongoDB), sub-50ms P95 latency, SSE real-time updates, ElevenLabs voice AI.
 
 - [**Ms Maryam's Maths**](https://msmaryamsmaths.com) — Full-stack tutoring SaaS with JWT/RBAC, Arcjet rate limiting, and blue-green CI/CD via GitHub Actions. Zero-downtime deploys in under 3 minutes.
 

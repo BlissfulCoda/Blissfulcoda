@@ -1,6 +1,6 @@
 # Hi, I'm Ronnie
 
-**Software Engineer** &nbsp;·&nbsp; London, UK &nbsp;·&nbsp; Open to roles
+**Full-Stack Software Engineer** &nbsp;·&nbsp; London, UK &nbsp;·&nbsp; Open to roles
 
 BSc Computer Science, King's College London. Full-stack engineer with 4+ years shipping production platforms across B2B SaaS, e-commerce, and EdTech. Passionate about combining UI/UX with engineering to build fast, well-designed products end-to-end. React · Next.js · TypeScript · Node.js · PostgreSQL · AWS · Docker.
 
@@ -46,4 +46,4 @@ BSc Computer Science, King's College London. Full-stack engineer with 4+ years s
 
 🌐 [ronniekiyegga.com](https://ronniekiyegga.com) &nbsp;·&nbsp;
 💼 [linkedin.com/in/ronniekiyegga](https://linkedin.com/in/ronniekiyegga) &nbsp;·&nbsp;
-📬 ronniekiyegga@hotmail.com
+📬 kiyeggaronnie@gmail.com

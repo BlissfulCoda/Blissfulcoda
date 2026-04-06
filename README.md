@@ -6,11 +6,11 @@ BSc Computer Science, King's College London. Full-stack engineer with 4+ years s
 
 ## Building
 
+- [**EduFeedbackPro**](https://github.com/BlissfulCoda) — An analytics platform that transforms student performance data into clear, actionable insights by helping educators instantly identify underperforming students and reduce workload by up to 60%.
+
+- [**Ms Maryam's Maths**](https://msmaryamsmaths.com) — A premium GCSE & A-level maths platform that helps students master topics, track progress, and improve exam performance through structured learning and personalised support.
+
 - [**algo-pseudo**](https://github.com/BlissfulCoda/pseudolab-IDE) — Browser-based Cambridge pseudocode IDE with real-time AST semantic analysis and exam-board validation. Next.js · TypeScript · PostgreSQL. Used by ~400+ students GCSE and A-Level.
-
-- [**EduFeedbackPro**](https://github.com/BlissfulCoda) — B2B EdTech analytics platform enabling near real-time student insights through an event-driven architecture and a Postgres + BigQuery pipeline, with role-based access control and a natural-language voice interface for non-technical educators.
-
-- [**Ms Maryam's Maths**](https://msmaryamsmaths.com) — Full-stack tutoring SaaS with JWT/RBAC, Arcjet rate limiting, and blue-green CI/CD via GitHub Actions. Zero-downtime deploys in under 3 minutes.
 
 
 ## Stack

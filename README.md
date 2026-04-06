@@ -10,7 +10,7 @@ BSc Computer Science, King's College London. Full-stack engineer who enjoys ship
 
 - [**Ms Maryam's Maths**](https://msmaryamsmaths.com) — A premium GCSE & A-level maths platform that helps students master topics, track progress, and improve exam performance through structured learning and personalised support.
 
-- [**algo-pseudo**](https://github.com/BlissfulCoda/pseudolab-IDE) — Browser-based Cambridge pseudocode IDE with real-time AST semantic analysis and exam-board validation. Next.js · TypeScript · PostgreSQL. Used by ~400+ students GCSE and A-Level.
+- [**algo-pseudo**](https://github.com/BlissfulCoda/pseudolab-IDE) — Browser-based Cambridge pseudocode IDE with real-time AST semantic analysis and exam-board validation. Next.js · TypeScript · PostgreSQL. students GCSE and A-Level.
 
 
 ## Stack

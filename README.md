@@ -6,7 +6,7 @@ BSc Computer Science, King's College London. Full-stack engineer who enjoys ship
 
 ## Building
 
-- [**EduFeedbackPro**](https://github.com/BlissfulCoda) — An analytics platform that transforms student performance data into clear, actionable insights by helping educators instantly identify underperforming students and reduce workload by up to 60%.
+- [**EduFeedbackPro**](https://edu-feedback-pro-beta.vercel.app/) — An analytics platform that transforms student performance data into clear, actionable insights by helping educators instantly identify underperforming students and reduce workload by up to 60%.
 
 - [**Ms Maryam's Maths**](https://msmaryamsmaths.com) — A premium GCSE & A-level maths platform that helps students master topics, track progress, and improve exam performance through structured learning and personalised support.
 

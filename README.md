@@ -1,43 +1,47 @@
-# Hi, I'm Ronnie
+  # Hi, I'm Ronnie
 
-**Full-Stack Software Engineer** &nbsp;·&nbsp; London, UK &nbsp;·&nbsp; Open to roles
+**Full-Stack Software Engineer** · London, UK
 
-BSc Computer Science, King's College London. Full-stack engineer who enjoys shipping production platforms across B2B SaaS, e-commerce, and EdTech. Passionate about combining UI/UX with engineering to build fast, well-designed products end-to-end. React · Next.js · TypeScript · Node.js · PostgreSQL · AWS · Docker.
+Full-stack engineer focused on building and shipping production systems end-to-end. I work across the stack, from product design through to backend architecture and deployment, with most of my work in the 0 to 1 phase, turning ideas into systems that are stable, scalable, and usable from day one.
 
-## Building
+I’ve built platforms across B2B SaaS, e-commerce, and EdTech, with a focus on clean architecture, performance, and pragmatic tradeoffs in real-time systems and data-heavy applications.
 
-- [**EduFeedbackPro**](https://edu-feedback-pro-beta.vercel.app/) — An analytics platform that transforms student performance data into clear, actionable insights by helping educators instantly identify underperforming students and reduce workload by up to 60%.
+BSc Computer Science · King’s College London
 
-- [**Ms Maryam's Maths**](https://msmaryamsmaths.com) — A premium GCSE & A-level maths platform that helps students master topics, track progress, and improve exam performance through structured learning and personalised support.
 
-- [**algo-pseudo**](https://github.com/BlissfulCoda/pseudolab-IDE) — Browser-based Cambridge pseudocode IDE with real-time AST semantic analysis and exam-board validation. Next.js · TypeScript · PostgreSQL. students GCSE and A-Level.
+## Selected Work
 
+- [**Subscription API**](https://github.com/BlissfulCoda/subscription-api)  
+  Backend system for authentication, access control, and subscription-based data, structured around a service layer with validation, RBAC, and rate limiting at the edge.
+
+- [**EduFeedbackPro**](https://edu-feedback-pro-beta.vercel.app/)  
+  Analytics platform for student performance, designed to surface actionable signals from fragmented data and support real-time decision-making.
+
+- [**GitHub Data Platform**](https://github.com/BlissfulCoda/GitHub-Data-Platform)  
+  Data pipeline for ingesting and analysing GitHub activity, focused on structuring and querying event-driven data at scale.
+
+- [**Ms Maryam's Maths**](https://msmaryamsmaths.com)  
+  GCSE & A-level maths platform for structured learning, progress tracking, and exam preparation.
+
+- [**algo-pseudo**](https://github.com/BlissfulCoda/pseudolab-IDE)  
+  Browser-based Cambridge pseudocode IDE with real-time AST validation for exam-style workflows.
+
+## Approach
+
+I focus on keeping systems simple under real constraints. Most of the work I’ve done involves balancing performance, cost, and developer speed rather than chasing ideal architectures.
+
+I tend to separate concerns early so that data access, business logic, and transport layers don’t get coupled as the system grows. For real-time systems, I prefer the simplest approach that meets the requirement.
+
+I optimise for systems that are predictable in production. That usually means clear boundaries, minimal abstraction, and decisions that reduce operational overhead rather than add to it.
 
 ## Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" title="Next.js"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" title="Redis"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" title="Nginx"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" title="AWS S3"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" title="Jest"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="36" title="Cypress"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub Actions"/>
+TypeScript · React · Next.js · Node.js · PostgreSQL · AWS · Docker · GitHub Actions
 
 ---
 
 ## Elsewhere
 
-🌐 [ronniekiyegga.com](https://ronniekiyegga.com) &nbsp;·&nbsp;
-💼 [linkedin.com/in/ronniekiyegga](https://linkedin.com/in/ronniekiyegga) &nbsp;·&nbsp;
+🌐 https://ronniekiyegga.com  
+💼 https://linkedin.com/in/ronniekiyegga  
 📬 kiyeggaronnie@gmail.com

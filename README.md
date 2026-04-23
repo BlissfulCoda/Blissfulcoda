@@ -15,13 +15,13 @@ BSc Computer Science · King’s College London
   Backend subscription management API with authentication, RBAC, and rate limiting, structured around a service layer to keep data access, business logic, and transport concerns decoupled.
 
 - [**EduFeedbackPro**](https://edu-feedback-pro-beta.vercel.app/)  
-  Analytics platform for student performance, designed to surface actionable signals from fragmented data and support real-time decision-making.
+  Analytics platform for student performance, focused on transforming fragmented data into actionable signals through structured data modelling and real-time aggregation pipelines.
 
 - [**GitHub Data Platform**](https://github.com/BlissfulCoda/GitHub-Data-Platform)  
-  Data pipeline for ingesting and analysing GitHub activity, focused on structuring and querying event-driven data at scale.
+  Data platform for ingesting and querying GitHub activity, using a proxy layer and caching to manage API constraints and optimise response times.
 
 - [**Ms Maryam's Maths**](https://msmaryamsmaths.com)  
-  GCSE & A-level maths platform for structured learning, progress tracking, and exam preparation.
+  Full-stack learning platform for GCSE & A-level maths with real-time progress tracking, authentication, and a focus on performance and predictable user flows at scale.
 
 - [**algo-pseudo**](https://github.com/BlissfulCoda/pseudolab-IDE)  
   Browser-based Cambridge pseudocode IDE with real-time AST validation for exam-style workflows.

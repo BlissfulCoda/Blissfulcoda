@@ -12,7 +12,7 @@ BSc Computer Science · King’s College London
 ## Selected Work
 
 - [**Subscription API**](https://github.com/BlissfulCoda/subscription-api)  
-  Backend system for authentication, access control, and subscription-based data, structured around a service layer with validation, RBAC, and rate limiting at the edge.
+  Backend subscription management API with authentication, RBAC, and rate limiting, structured around a service layer to keep data access, business logic, and transport concerns decoupled.
 
 - [**EduFeedbackPro**](https://edu-feedback-pro-beta.vercel.app/)  
   Analytics platform for student performance, designed to surface actionable signals from fragmented data and support real-time decision-making.
